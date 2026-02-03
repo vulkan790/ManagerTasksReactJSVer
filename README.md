@@ -45,3 +45,51 @@ npm run build
 - **Frontend:** React
 - **Базовая вёрстка:** HTML/CSS
 - **Сборка:** React-scripts
+
+# Task Manager (React)
+
+A simple task management application built with React. Allows you to add, view, and delete tasks with an intuitive interface.
+
+## Features
+
+- **Add new tasks with empty input validation**
+- **Delete tasks with one click**
+- **Task counter**
+- **Intuitive UI/UX**
+
+## Quick Start
+
+### Prerequisites
+- **Node.js (version 16 or higher)**
+- **npm или yarn**
+
+### Installation and Running
+
+1. **Clone the repository**
+
+```sh
+git clone https://github.com/vulkan790/ManagerTasksReactJSVer.git
+cd ManagerTasksReactJSVer
+```
+
+2. **Install dependencies**
+```sh
+npm install
+```
+3. **Run in development mode**
+```sh
+npm run dev
+```
+
+4. **Open in your browser**
+
+5. **Build for production**
+```sh
+npm run build
+```
+
+## Technologies Used
+
+- **Frontend:** React
+- **Basic layout:** HTML/CSS
+- **Build tool:** React-scripts
